@@ -10,3 +10,7 @@ The main purpose of this project is to allow users to find restaurants that are 
 ### 2. You can enter the food you want and where you are then click on the button at the bottom.
 
 ![This is the home screen with updated values](UpdateValues.png)
+
+### 3. After clicking the button at the bottom it will take you to a screen that has restaurants close to the area you entered which serves the food you entered.
+
+![This is a screen that provides restuarants nearby with the preferred food](Results.png)
