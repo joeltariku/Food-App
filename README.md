@@ -16,4 +16,10 @@ The main purpose of this project is to allow users to find restaurants that are 
 ![This is a screen that provides restuarants nearby with the preferred food](Results.png)
 
 ### 4. Once you have the list of restaurants, you can save the ones that sound interesting or have the best rating.
+
 ![This is what the screen will be like after saving some restaurants](SaveRestaurants.png)
+
+### 5. After saving some restaurants, you can click on the filter screen button at the top left to take you back to the initial screen.
+
+![After clicking on the filter screen button user returns to the initial screen](BackToFilter.png)
+
