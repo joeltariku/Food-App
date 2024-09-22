@@ -23,3 +23,6 @@ The main purpose of this project is to allow users to find restaurants that are 
 
 ![After clicking on the filter screen button user returns to the initial screen](BackToFilter.png)
 
+### 6. Once back on the initial screen you can either make another search or look at your saved restaurants. To look at your saved restaurants click the button at the top right of the screen.
+
+![This screen lists all of the saved restaurants](SavedRestaurants.png)
