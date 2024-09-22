@@ -26,3 +26,7 @@ The main purpose of this project is to allow users to find restaurants that are 
 ### 6. Once back on the initial screen you can either make another search or look at your saved restaurants. To look at your saved restaurants click the button at the top right of the screen.
 
 ![This screen lists all of the saved restaurants](SavedRestaurants.png)
+
+### 7. You can remove any of your saved restaurants by clicking on the remove button to the right.
+
+![This screen shows the updated saved restaurants](RemoveRestaurant.png)
