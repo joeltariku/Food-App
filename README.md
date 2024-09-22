@@ -14,3 +14,6 @@ The main purpose of this project is to allow users to find restaurants that are 
 ### 3. After clicking the button at the bottom it will take you to a screen that has restaurants close to the area you entered which serves the food you entered.
 
 ![This is a screen that provides restuarants nearby with the preferred food](Results.png)
+
+### 4. Once you have the list of restaurants, you can save the ones that sound interesting or have the best rating.
+![This is what the screen will be like after saving some restaurants](SaveRestaurants.png)
