@@ -7,6 +7,6 @@ The main purpose of this project is to allow users to find restaurants that are 
 
 ![This is the home screen](InitialScreen.png)
 
-## 2. You can enter the food you want and where you are then click on the button at the bottom.
+### 2. You can enter the food you want and where you are then click on the button at the bottom.
 
 ![This is the home screen with updated values](UpdateValues.png)
