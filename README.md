@@ -29,4 +29,7 @@ The main purpose of this project is to allow users to find restaurants that are 
 
 ### 7. You can remove any of your saved restaurants by clicking on the remove button to the right.
 
-![This screen shows the updated saved restaurants](RemoveRestaurant.png)          ![This screen shows the updated saved restaurants](NoSavedRestaurants.png)
+![This screen shows the updated saved restaurants](RemoveRestaurant.png) 
+![This screen shows the updated saved restaurants](NoSavedRestaurants.png)
+
+### 8. From here you can click the filter screen button at the top left and repeat the steps above.
