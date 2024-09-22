@@ -30,7 +30,7 @@ public class Eaties {
     public HttpRequest makePostRequest(String jsonRequest) throws Exception {
         HttpRequest postRequest = HttpRequest.newBuilder()
                 .uri(new URI("https://places.googleapis.com/v1/places:searchText"))
-                .header("X-Goog-Api-Key", "AIzaSyDJ_kGRLfcIB_0Ngo5jMJ3p_JoxyXlt7Bw")
+                .header("X-Goog-Api-Key", "YOUR_API_KEY_HERE")
                 .header("X-Goog-FieldMask",
                         "places.displayName.text,places.formattedAddress,places.rating,places.priceLevel,places.goodForWatchingSports")
                 .POST(BodyPublishers.ofString(jsonRequest))
